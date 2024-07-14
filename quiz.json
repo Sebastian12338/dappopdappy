@@ -1,19 +1,74 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of ancient civilizations.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who built the pyramids?",
+      "answers": ["Egypt", "Rome", "Greece"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Where was the Colosseum?",
+      "answers": ["Rome", "Athens", "Cairo"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who had city-states?",
+      "answers": ["Greece", "Rome", "Egypt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was the Great Wall built?",
+      "answers": ["China", "India", "Persia"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was known for their pyramids in America?",
+      "answers": ["Maya", "Inca", "Aztec"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was Mesopotamia?",
+      "answers": ["Iraq", "Egypt", "Greece"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who had hieroglyphics?",
+      "answers": ["Egypt", "China", "Greece"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was the Parthenon?",
+      "answers": ["Athens", "Rome", "Sparta"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who built Machu Picchu?",
+      "answers": ["Inca", "Maya", "Aztec"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was the Library of Alexandria?",
+      "answers": ["Egypt", "Rome", "Greece"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who had the Hanging Gardens?",
+      "answers": ["Babylon", "Egypt", "Rome"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was the Indus Valley?",
+      "answers": ["India", "China", "Persia"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who ruled with pharaohs?",
+      "answers": ["Egypt", "Greece", "Rome"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was the Acropolis?",
+      "answers": ["Athens", "Rome", "Sparta"],
       "correctAnswerIndex": 0
     }
   ]
